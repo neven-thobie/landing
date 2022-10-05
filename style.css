@@ -1,14 +1,15 @@
 body {
   font-family: 'Alkalami', serif;
   margin: 0;
-  background-color: #FEFEE2
+  background-image:url('images/u.jpg');
+  background-position: top;
 }
 h1 {
-  color: white;
+  color: yellow;
   font-family: Chivo;
 }
 h2 {
-  color: green;
+  color: yellow;
   font-family: Chivo;
   text-align: center;
 }
@@ -18,8 +19,8 @@ h2 {
 }
 
 p {
-  color: #404042;
-  opacity: .7;
+  color: black;
+  
 }
 
 .container {
@@ -28,7 +29,7 @@ p {
 }
 
 .banner {
-  background-image: url('images/h.jpg');
+  background-image: url('images/T.jpg');
   background-size: cover;
   background-position: bottom;
   padding: 150px 0;
@@ -36,18 +37,18 @@ p {
 }
 
 .banner h1 {
-  color: white;
+  color: #191970;
   font-size: 45px;
   margin: 0;
 }
 
 .banner p {
-  color: white;
+  color: black;
   font-size: 24px;
 }
 
 .button-blue {
-  background-color: pink ;
+  background-color: #191970 ;
   color: white;
   padding: 16px 48px;
   border-radius: 4px;
@@ -62,7 +63,7 @@ p {
   }
 
 .red-button {
-  background-color: pink ;
+  background-color: #191970 ;
   color: white;
   padding: 16px 48px;
   border-radius: 4px;
@@ -112,7 +113,7 @@ p {
 
 
 .card-white {
-  background: pink;
+  background: yellow;
   box-shadow: 0 0 16px rgba(0,0,0,0.1);
   border-radius: 4px;
   width: 200px;
@@ -133,12 +134,12 @@ p {
 }
 
 .footer {
-  background: green;
+  background: #ffa000;
   text-align: center;
-  padding: 24px 0;
+  padding: 40px 15px;
 }
 
 .footer p {
-  color: white;
+  color: black;
 }
 
